@@ -6,19 +6,15 @@ lang: zh
 
 
 book:
-  title: "科研工具介绍"
-  author: "张鑫"
-  date: "1/8/2023"
+  title: "Title of the Book"
+  author: "Author of the Book"
+  date: today
   
   chapters:
     - index.qmd
-    - MacSettings.qmd
-    - git.qmd
-    - link.qmd
-    - prob.qmd
-    - Routers.qmd
-    - summary.qmd
-    - references.qmd
+    - chap1.qmd
+    - chap2.qmd
+    - ref.qmd
     
   site-url: https://macset.xzhang.ink/
   ##style: "docked"
